@@ -3,12 +3,12 @@ Annotates library files for CRISPR/Cas9 knockout screens.
 
 Author: Collin Schlager (Summer 2018)
 
-<hr>
+___________
+
 ### Purpose:
 
 Uses web-based gene databases to annotate a library file with relevant data. Currently, MyGene is being used, although soon other information sources will be interacted into this API wrapper.
 
-<hr>
 ### Usage:
 
 The annotate.py file is fully modular and can be imported into any script.
@@ -16,7 +16,6 @@ The annotate.py file is fully modular and can be imported into any script.
 Import the annotator with:
     `import annotate`
     
-<hr>
 ### Documentation:
 
 ##### Variables:
